@@ -5,6 +5,7 @@
 import React from "react";
 import { CalendarDays, Printer, RefreshCw, Share2 } from "lucide-react";
 import { toast } from "sonner";
+import editionsData from "./editions.json";
 import fallbackEditions from "./editions.json";
 import { supabase } from "@/lib/supabase";
 
