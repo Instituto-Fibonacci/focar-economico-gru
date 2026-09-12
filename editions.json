@@ -1,0 +1,743 @@
+[
+  {
+    "id": "2026-09-05",
+    "displayDate": "05/09/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,12",
+        "detail": "Fech. 04/09"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,95",
+        "detail": "Fech. 04/09"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "185.147",
+        "detail": "Fech. 04/09"
+      }
+    ],
+    "main": {
+      "source": "UOL Economia",
+      "category": "Crédito",
+      "time": "05:30",
+      "relevanceScore": 96,
+      "title": "Banco Central prepara medidas contra crédito irresponsável e reforça supervisão",
+      "summary": "O Banco Central informou na ata do Comitê de Estabilidade Financeira que prepara medidas para reduzir riscos associados às modalidades de crédito mais onerosas, diante do endividamento e da inadimplência das famílias. Cartão de crédito, cheque especial e crédito ao consumidor estão entre as linhas que concentram preocupação. A análise publicada pelo UOL destaca que a expansão de bancos digitais, instituições de pagamento e sociedades de crédito ampliou o acesso, mas também exige critérios de concessão, transparência e proteção ao cliente mais rigorosos.",
+      "url": "https://economia.uol.com.br/colunas/jose-paulo-kupfer/2026/09/05/bc-reconhece-que-regras-para-evitar-credito-irresponsavel-sao-frouxas.htm",
+      "image": "/manus-storage/05set-credito-responsavel_da1a2b9a.jpg"
+    },
+    "articles": [
+      {
+        "source": "Folha de S.Paulo",
+        "category": "Endividamento",
+        "time": "22:00",
+        "relevanceScore": 92,
+        "title": "Dívidas comprometem 28,5% da renda e BC mira linhas mais caras",
+        "summary": "A dívida das famílias alcançou 49,8% da renda anual em maio, enquanto o comprometimento mensal da renda com pagamentos subiu de 22,6% no início de 2020 para 28,5%. O Banco Central prepara medidas voltadas a cartão de crédito, crédito pessoal sem garantia, inadimplência e transparência de custos. A Folha observa que a expansão da bancarização e das fintechs ampliou o acesso ao sistema, mas ocorreu junto do crescimento das dívidas e de modalidades mais caras.",
+        "url": "https://www1.folha.uol.com.br/opiniao/2026/09/bc-alerta-para-expansao-das-dividas-das-familias.shtml",
+        "image": "/manus-storage/05set-dividas-familias_e5b5f35f.jpg"
+      },
+      {
+        "source": "Let's Money",
+        "category": "Risco",
+        "time": "11:07",
+        "relevanceScore": 89,
+        "title": "Inadimplência sobe para 26% das maiores preocupações do sistema financeiro",
+        "summary": "Na Pesquisa de Estabilidade Financeira, 34% das instituições ouvidas apontaram o quadro fiscal como principal risco para os próximos três anos. A inadimplência e a atividade econômica avançaram de 21% para 26% entre maio e agosto e, quando consideradas as três principais ameaças, tornaram-se o grupo mais citado. O levantamento ouviu 117 instituições e associa a preocupação ao endividamento elevado de famílias e empresas em ambiente de juros altos.",
+        "url": "https://www.letsmoney.com.br/noticias/bc-risco-fiscal-inadimplencia-pef/",
+        "image": "/manus-storage/05set-risco-inadimplencia_9516b26d.jpg"
+      },
+      {
+        "source": "Nota Alta ESPM",
+        "category": "Tecnologia",
+        "time": "04/09",
+        "relevanceScore": 86,
+        "title": "Bancos aceleram proteção contra risco da computação quântica",
+        "summary": "Bancos brasileiros já fazem inventários, testes e projetos de criptografia pós-quântica para proteger transações, dados e identidades digitais. O Bradesco mantém o programa QSAFE desde 2023, e o Itaú estuda computação quântica aplicada ao setor desde 2019. O Banco Central começou a discutir com o mercado um futuro arcabouço regulatório, enquanto instituições avaliam quais sistemas e informações precisam migrar primeiro para algoritmos resistentes a computadores quânticos.",
+        "url": "https://notaalta.espm.br/o-melhor-de-hoje/computacao-quantica-ja-e-realidade-nos-bancos-e-preocupa-o-bc/",
+        "image": "/manus-storage/05set-computacao-quantica_4cb7c677.jpg"
+      },
+      {
+        "source": "Finsiders Brasil",
+        "category": "Pagamentos",
+        "time": "10:49",
+        "relevanceScore": 82,
+        "title": "Ant International recebe aval do BC para atuar em pagamentos no Brasil",
+        "summary": "A Ant International recebeu autorização do Banco Central para operar no Brasil como instituição de pagamento, nas modalidades de emissora de moeda eletrônica e iniciadora de transações. A AIBR Instituição de Pagamento tem capital social de R$ 47,5 milhões e poderá gerenciar contas pré-pagas e iniciar pagamentos fora do ambiente bancário. A companhia já atua com Pix, cartões e pagamentos transfronteiriços e pretende ampliar sua presença no ecossistema financeiro brasileiro.",
+        "url": "https://finsidersbrasil.com.br/regulamentacao/ant-international-recebe-autorizacao-do-bc-para-ter-instituicao-de-pagamento/",
+        "image": "/manus-storage/05set-ant-international_10807e00.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-04",
+    "displayDate": "04/09/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,10",
+        "detail": "Mercado 09h58"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,93",
+        "detail": "Mercado 10h07"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "185.188",
+        "detail": "Fech. 03/09"
+      }
+    ],
+    "main": {
+      "source": "UOL Economia",
+      "category": "Bancos",
+      "time": "22:01",
+      "relevanceScore": 94,
+      "title": "Pix terá contestação mais clara e comprovantes sem publicidade em 2027",
+      "summary": "O Banco Central divulgou a versão 7.4 dos requisitos de experiência do Pix, com vigência prevista para 1º de março de 2027. Os aplicativos deverão explicar situações de fraude em linguagem mais simples, permitir o envio de documentos e informar quando um problema comercial não pode ser tratado pelo MED. Comprovantes não poderão conter anúncios ou links alheios à transação, e bancos deverão exibir o nome fantasia de empresas recebedoras. O prazo atual de até 80 dias para pedir devolução permanece inalterado.",
+      "url": "https://economia.uol.com.br/noticias/redacao/2026/09/03/pix-novas-regras-golpes.ghtm",
+      "image": "/manus-storage/04set-pix-regras_39c716e9.jpg"
+    },
+    "articles": [
+      {
+        "source": "UOL Economia",
+        "category": "Tecnologia",
+        "time": "05:30",
+        "relevanceScore": 86,
+        "title": "IA acelera ataques digitais e reduz janela de reação das empresas",
+        "summary": "Relatório da Nokia indica que 78% das ofensivas observadas contra a segurança de empresas terminam em até cinco minutos, intervalo menor do que o tempo necessário para uma reação manual. A análise combina dados operacionais da companhia e respostas de 160 líderes de segurança de telecomunicações. A inteligência artificial acelera a busca por vulnerabilidades e a adaptação dos ataques, enquanto sistemas automatizados ajudam na contenção. O levantamento ressalta, porém, que tecnologia não substitui equipes preparadas, infraestrutura atualizada, controles de acesso, cópias de segurança e treinamento contínuo.",
+        "url": "https://economia.uol.com.br/colunas/aline-sordili/2026/09/04/78-dos-ataques-a-seguranca-digital-acabam-antes-de-a-empresa-agir.htm",
+        "image": "/manus-storage/04set-ciberseguranca-ia_ac161192.webp"
+      },
+      {
+        "source": "Valor Econômico",
+        "category": "Tecnologia",
+        "time": "10:51",
+        "relevanceScore": 84,
+        "title": "Banco Central estuda conectar Pix ao sistema de pagamentos da Europa",
+        "summary": "O Banco Central estuda interligar o Pix ao TIPS, plataforma de pagamentos instantâneos do Banco Central Europeu. O projeto ainda está em pré-investigação, com avaliações técnicas, jurídicas, operacionais e de segurança. Uma comitiva brasileira deve discutir a interoperabilidade com o BCE em outubro. A conexão permitiria liquidação instantânea entre moedas e poderia reduzir tarifas, acelerar remessas internacionais, ampliar o acesso e melhorar a transparência de transações transfronteiriças.",
+        "url": "https://valor.globo.com/financas/noticia/2026/09/03/bc-planeja-levar-pix-a-europa-em-meio-as-criticas-dos-eua.ghtml",
+        "image": "/manus-storage/04set-pix-europa_4298b557.jpg"
+      },
+      {
+        "source": "Let's Money",
+        "category": "Regulação",
+        "time": "10:05",
+        "relevanceScore": 80,
+        "title": "Banco Central revisa parcerias de dados e qualidade no Open Finance",
+        "summary": "O Banco Central iniciou uma revisão das parcerias que permitem a empresas externas ao Open Finance acessar dados de clientes por meio de instituições autorizadas. A análise deve ser concluída em dezembro e concentra-se em responsabilidade, controle do consentimento, aderência à LGPD e qualidade das informações compartilhadas. O ecossistema tinha 208,79 milhões de consentimentos ativos em julho, enquanto o setor acompanha a expansão da portabilidade de crédito e possíveis mudanças no ressarcimento dos custos de originação.",
+        "url": "https://www.letsmoney.com.br/noticias/banco-central-revisa-parcerias-dados-open-finance/",
+        "image": "/manus-storage/04set-open-finance_62fe0458.avif"
+      },
+      {
+        "source": "UOL Economia",
+        "category": "Crédito",
+        "time": "05:30",
+        "relevanceScore": 58,
+        "title": "Programa verde mobiliza R$ 140 bilhões, mas crédito ainda demora a chegar aos pequenos",
+        "summary": "O Eco Invest Brasil mobilizou cerca de R$ 140 bilhões em quatro leilões para financiar transição energética, bioeconomia, infraestrutura verde e recuperação de terras. Apesar do volume, pequenos e médios produtores ainda enfrentam custos elevados para estruturar projetos, comprovar benefícios ambientais, reunir garantias e atender às exigências dos bancos. A reportagem mostra que fundos, securitizadoras, Fiagros, FIDCs e CRAs podem reunir operações menores e ajudar o crédito a chegar à ponta com escala e monitoramento adequados.",
+        "url": "https://economia.uol.com.br/noticias/redacao/2026/09/04/programa-verde-de-r-140-bi-do-governo-esbarra-em-desafios-a-pequenos.htm",
+        "image": "/manus-storage/04set-eco-invest_c14c4bf6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-03",
+    "displayDate": "03/09/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,11",
+        "detail": "Mercado 11h26"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,93",
+        "detail": "Mercado 11h37"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "185.205",
+        "detail": "Fech. 02/09"
+      }
+    ],
+    "main": {
+      "source": "O Globo",
+      "category": "Economia",
+      "time": "04:00",
+      "title": "Juros dos EUA aumentam pressão sobre crédito e ajuste fiscal no Brasil",
+      "summary": "O desequilíbrio fiscal dos Estados Unidos, onde a dívida pública chegou a US$ 40 trilhões, e os juros dos títulos de longo prazo próximos de 5% elevam o custo financeiro global. Economistas ouvidos por O Globo avaliam que esse cenário pressiona inflação e juros também no Brasil e reduz o espaço para queda da Selic. Para o país, o ambiente reforça a necessidade de controle das contas públicas e de maior resiliência diante da competição mundial por poupança e financiamento.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/03/desequilibrio-fiscal-dos-eua-reforca-imposicao-de-controle-de-gastos-no-brasil.ghtml",
+      "image": "/manus-storage/03set-tesouro-eua_0f2ce0cb.jpg"
+    },
+    "articles": [
+      {
+        "source": "Serasa",
+        "category": "Tecnologia",
+        "time": "02/09",
+        "title": "Nova regra do Pix amplia para 80 dias prazo de contestação do MED",
+        "summary": "Desde 1º de setembro, o prazo para contestar uma devolução feita pelo Mecanismo Especial de Devolução do Pix passou de 30 para 80 dias. A mudança amplia a proteção contra o uso fraudulento do próprio mecanismo. O sistema também conta com bloqueio automático em cascata de contas suspeitas e alerta de golpe diretamente no aplicativo bancário, medidas destinadas a acelerar a contenção dos valores transferidos e dificultar a movimentação por contas laranjas.",
+        "url": "https://www.serasa.com.br/blog/novas-regras-pix/",
+        "image": "/manus-storage/03set-pix-med_e9f0fe22.jpg"
+      },
+      {
+        "source": "Seu Dinheiro",
+        "category": "Crédito",
+        "time": "15:08",
+        "title": "Crédito à pessoa física limita recuperação do Banco do Brasil, avalia XP",
+        "summary": "A XP manteve recomendação neutra para BBAS3 e preço-alvo de R$ 21 ao fim de 2027. Embora a recuperação do crédito rural possa aliviar o custo de risco, a piora da qualidade da carteira de pessoa física, inclusive em cartões e consignado, pode retardar a recuperação da rentabilidade. A corretora elevou em 2% sua projeção de provisões para 2026 e vê pouco espaço para aumento relevante de dividendos no curto prazo.",
+        "url": "https://www.seudinheiro.com/2026/empresas/banco-do-brasil-bbas3-por-que-nem-a-melhora-do-agro-convence-a-xp-a-investir-na-acao-miql/",
+        "image": "/manus-storage/03set-banco-do-brasil_f0fc18b3.jpg"
+      },
+      {
+        "source": "Revista Kdea 360",
+        "category": "Bancos",
+        "time": "15:59",
+        "title": "Confiança, tecnologia e dados passam a definir liderança entre bancos",
+        "summary": "Estudo da OKIAR aponta que a próxima disputa de liderança no sistema financeiro será por principalidade: a capacidade de uma instituição se tornar a referência central da vida financeira do cliente. Confiança, tecnologia, inteligência de dados, ecossistemas integrados e experiência do consumidor aparecem como os cinco fatores decisivos. A competição deixa de ser apenas pela abertura de contas e passa a priorizar relevância, relacionamento e entrega contínua de valor.",
+        "url": "https://revistakdea360.com.br/noticia/87416/quem-de-fato-lidera-a-proxima-corrida-do-sistema-financeiro",
+        "image": "/manus-storage/03set-principalidade-financeira_fbc58902.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-02",
+    "displayDate": "02/09/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,16",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,98",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "179.722",
+        "detail": "B3"
+      }
+    ],
+    "main": {
+      "source": "UOL Economia",
+      "category": "Destaque do dia",
+      "time": "08:30",
+      "title": "IA já executa Pix e força bancos a reforçar segurança e continuidade",
+      "summary": "A inteligência artificial já participa de pagamentos, crédito, gestão de caixa e investimentos nos bancos. No Bradesco, a assistente b.ia pode pagar boletos e realizar Pix, mas cada operação exige validação de identidade, limites, destino e sinais de fraude. A reportagem mostra que os bancos precisam criar planos de continuidade, redundância e trilhas de auditoria para impedir que falhas, indisponibilidade ou alucinações de modelos se transformem em transações financeiras indevidas.",
+      "url": "https://economia.uol.com.br/colunas/aline-sordili/2026/09/02/ia-paga-pix-le-o-caixa-das-empresas-e-bancos-reforcam-a-seguranca.htm",
+      "image": "/manus-storage/focar-guarulhos-hero-ia-pix_509af4cf.jpg"
+    },
+    "articles": [
+      {
+        "source": "Estadão",
+        "category": "Tecnologia",
+        "time": "08:30",
+        "title": "Novas regras antifraude do Pix ampliam bloqueios e prazo de contestação",
+        "summary": "O Banco Central colocou em vigor regras que exigem verificações adicionais em transações atípicas ou suspeitas. O MED 2.0 permite bloqueio cautelar de valores e ampliou de 30 para 80 dias o prazo de contestação. Empresas com fluxo variável devem alinhar seu perfil de transações com o banco para reduzir bloqueios indevidos, enquanto negócios com cobranças recorrentes precisam se adequar ao Pix Automático.",
+        "url": "https://www.estadao.com.br/economia/camila-farani/o-pix-mudou-ontem-sua-empresa-ja-sabe-o-que-fazer-diferente-amanha/",
+        "image": "/manus-storage/noticia-pix-antifraude_e48b5e99.jpeg"
+      },
+      {
+        "source": "Folha de S.Paulo",
+        "category": "Crédito",
+        "time": "14:38",
+        "title": "Banco Central prepara medidas para conter endividamento nas linhas mais caras",
+        "summary": "O diretor de Fiscalização do Banco Central, Ailton de Aquino, afirmou que o órgão prepara medidas para cartão de crédito e crédito não consignado. A inadimplência das pessoas físicas no crédito livre chegou a 7,8%, enquanto o indicador geral atingiu 6,4%, maior nível da série iniciada em 2011. O BC também avalia os efeitos das apostas sobre a saúde financeira das famílias e defende maior transparência nas taxas e no custo efetivo do crédito.",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/09/diretor-do-bc-diz-que-orgao-lancara-novas-medidas-para-combater-endividamento.shtml",
+        "image": "/manus-storage/noticia-bc-endividamento_aed78a7b.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-01",
+    "displayDate": "01/09/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,16",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,98",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "179.722",
+        "detail": "B3"
+      }
+    ],
+    "main": {
+      "source": "UOL Economia",
+      "category": "Economia",
+      "time": "08:30",
+      "title": "'Desenrola' do governo federal socorre só os bancos, diz professora da USP",
+      "summary": "Oito em cada dez famílias brasileiras estão endividadas, segundo a CNC, e o alto comprometimento da renda reacende o debate sobre a oferta de crédito. Em entrevista ao UOL, Maria Paula Bertran, professora da Faculdade de Direito da USP de Ribeirão Preto, afirma que modalidades sem garantia — como rotativo do cartão e empréstimo pessoal — podem cobrar juros de 500% a 600% ao ano e critica o Desenrola por converter dívidas sem garantia em obrigações com respaldo da União. Ela defende que o Banco Central exija análise efetiva da capacidade de pagamento, limite o comprometimento total da renda a 40% e aumente o provisionamento dos bancos para operações de maior risco.",
+      "url": "https://economia.uol.com.br/colunas/carlos-juliano-barros/2026/09/01/desenrola-do-governo-federal-socorre-so-os-bancos-diz-professora-da-usp.htm",
+      "image": "https://conteudo.imguol.com.br/c/parceiros/2e/2018/09/12/objetivo-e-reduzir-o-endividamento-e-melhorar-o-perfil-da-divida-1536791560290_v2_4x3.jpg"
+    },
+    "articles": [
+      {
+        "source": "Finsiders Brasil",
+        "category": "Bancos",
+        "time": "03:09",
+        "title": "Leandro Vilain volta à Febraban, agora como presidente-executivo",
+        "summary": "Leandro Vilain será indicado por Milton Maluhy Filho, CEO do Itaú Unibanco e presidente do Conselho Diretor da Febraban, para substituir Isaac Sidney na presidência-executiva da entidade. Vilain tem mais de 30 anos de atuação no setor financeiro, foi diretor da Febraban por mais de nove anos e participou de projetos como Pix, Open Finance e Drex. Desde abril de 2025, ele comanda a Associação Brasileira de Bancos Comerciais; Sidney ocupa a presidência-executiva da Febraban desde março de 2020 e havia sinalizado a intenção de concluir dois mandatos.",
+        "url": "https://finsidersbrasil.com.br/gente-em-fintechs/leandro-vilain-volta-a-febraban-agora-como-presidente-executivo/",
+        "image": "/manus-storage/noticia-pix-antifraude_e48b5e99.jpeg"
+      },
+      {
+        "source": "TechTudo",
+        "category": "Tecnologia",
+        "time": "03:02",
+        "title": "Novas regras de segurança do Pix entram em vigor hoje; veja o que muda",
+        "summary": "A Instrução Normativa BCB nº 766 ampliou de 30 para 80 dias o prazo para o recebedor original contestar uma devolução feita pelo Mecanismo Especial de Devolução quando houver suspeita de uso fraudulento. Continua valendo o prazo de 80 dias para a vítima pedir a abertura do MED após o Pix original; na nova hipótese, a contagem começa na transação que devolveu os recursos. A regra vale para todas as instituições participantes, não exige ativação pelo usuário e mantém a análise do caso pela instituição financeira, sem garantia de recuperação caso não haja saldo disponível.",
+        "url": "https://www.techtudo.com.br/guia/2026/09/novas-regras-de-seguranca-do-pix-entram-em-vigor-hoje-veja-o-que-muda-edapps.ghtml",
+        "image": "/manus-storage/noticia-assembleia-bancarios_96733f9b.png"
+      },
+      {
+        "source": "Folha de S.Paulo",
+        "category": "Economia",
+        "time": "02:00",
+        "title": "Bancos e instituições digitais aumentaram PIB em R$ 1,6 tri entre 2016 e 2026, diz pesquisa",
+        "summary": "Estudo do Reglab encomendado pela Zetta atribui às instituições financeiras digitais um acréscimo de R$ 1,6 trilhão ao PIB brasileiro entre 2016 e o primeiro trimestre de 2026. A simulação indica que, sem bancos digitais, fintechs e instituições de pagamento, o PIB do primeiro trimestre seria 2,2% menor; o efeito inclui R$ 982 bilhões em consumo das famílias, R$ 371 bilhões em investimento, R$ 102 bilhões economizados em juros do crédito livre e R$ 47 bilhões em tarifas bancárias. As instituições digitais detêm 6,1% dos ativos do sistema financeiro, e o estudo associa os ganhos à concorrência estimulada por Pix, portabilidades e Open Finance.",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/08/bancos-e-instituicoes-digitais-aumentaram-pib-em-r-16-tri-entre-2016-e-2026-diz-pesquisa.shtml",
+        "image": "/manus-storage/noticia-bb-cassi_2904602e.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-31",
+    "displayDate": "31/08/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,16",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,98",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "179.722",
+        "detail": "B3"
+      }
+    ],
+    "main": {
+      "source": "G1",
+      "category": "Crédito",
+      "time": "03:00",
+      "title": "Judicialização de dívidas bate recorde e passa de 1,2 milhão de ações; especialistas veem crédito fácil, bets e endividamento entre as causas",
+      "summary": "As cobranças judiciais de dívidas privadas atingiram o maior patamar da série histórica em 2025, com 1.239.537 novos processos de execução de títulos extrajudiciais não fiscais, alta de cerca de 60% em relação a 2020 (772.645), segundo levantamento do g1 com dados do Conselho Nacional de Justiça. Entre janeiro e março de 2026 já foram registrados 295.541 novos processos. O avanço ocorre em meio ao endividamento recorde das famílias, que chegou a 80,4% dos lares em março pela Pesquisa de Endividamento e Inadimplência do Consumidor (Peic/CNC), com comprometimento de quase 30% da renda mensal e endividamento total de 50% da renda acumulada em 12 meses, conforme o Banco Central. Especialistas apontam o excesso de concessão de crédito, o uso de empréstimos para apostas (bets) e a falta de renegociação global como agravantes do superendividamento. No Observatório da Insolvência da ABJ/PUC-SP, processos de falência em São Paulo duram em média mais de 16 anos, credores recuperam apenas 6,1% do valor devido e 91,9% dos pedidos de falência partem dos próprios credores, quase um terço deles do setor financeiro e de seguros.",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/31/judicializacao-de-dividas-recorde.ghtml",
+      "image": "/manus-storage/noticia-pix-antifraude_e48b5e99.jpeg"
+    },
+    "articles": [
+      {
+        "source": "O Povo",
+        "category": "Trabalho",
+        "time": "04:15",
+        "title": "Mais digitais, bancos privados fecharam 28 unidades no Ceará em cinco meses",
+        "summary": "O Ceará registrou o fechamento ou a conversão de 28 agências bancárias privadas até maio de 2026, segundo dados do Sindicato dos Bancários do Ceará (Seeb-CE). Foram 21 fechamentos definitivos e sete conversões em unidades de negócios, concentrados no Bradesco (15 unidades), Santander (7) e Itaú (6). Sete municípios do interior — Acopiara, Amontada, Ipueiras, Tamboril, Trairi, Viçosa do Ceará e Ubajara — ficaram sem nenhuma agência, obrigando deslocamentos que podem superar 100 quilômetros. Os bancos justificam a migração digital: o Bradesco afirma que 98% das operações dos clientes ocorrem por canais digitais, o Itaú cita 97% e a Febraban aponta que 83% das transações bancárias dos brasileiros são feitas por celular ou internet banking. O movimento ocorre mesmo após lucros elevados no segundo trimestre: Bradesco registrou R$ 7,05 bilhões (alta de 16,2% na comparação anual), Itaú lucrou R$ 12,4 bilhões (+7,8%) e Santander € 3,768 bilhões (+17%). O sindicato denuncia superlotação das unidades remanescentes, sobrecarga de trabalho e adoecimento dos funcionários, e cobra regras para fechamento de agências na Campanha Nacional 2026.",
+        "url": "https://mais.opovo.com.br/jornal/economia/2026/08/31/mais-digitais-bancos-privados-fecharam-28-unidades-no-ceara-em-cinco-meses.html",
+        "image": "/manus-storage/noticia-assembleia-bancarios_96733f9b.png"
+      },
+      {
+        "source": "UOL Economia",
+        "category": "Crédito",
+        "time": "16:27",
+        "title": "Programa de renegociação de dívidas termina nesta segunda-feira",
+        "summary": "O Novo Desenrola Brasil, programa do governo federal voltado à renegociação de dívidas bancárias, encerra nesta segunda-feira (31) o prazo para formalização de acordos, sem previsão de nova prorrogação. A modalidade voltada às famílias renegociou, até o início da última semana de agosto, cerca de 5,03 milhões de dívidas, que somavam originalmente R$ 26,33 bilhões e foram reduzidas para aproximadamente R$ 5,27 bilhões após os acordos. Podem participar pessoas físicas com renda mensal de até cinco salários mínimos (R$ 8.105) e dívidas contratadas até 31 de janeiro de 2026, com atraso entre 91 dias e dois anos. Para rotativo de cartão e cheque especial, os descontos podem chegar a 90%. Nas renegociações por nova operação de crédito, os juros são limitados a 1,99% ao mês, com prazo de até 48 meses, parcela mínima de R$ 50 e limite de R$ 15 mil por beneficiário em cada instituição. Participam Caixa, Banco do Brasil, Itaú, Bradesco, Santander e Nubank. O trabalhador pode usar até R$ 1 mil ou 20% do saldo do FGTS para amortizar ou quitar a dívida.",
+        "url": "https://economia.uol.com.br/noticias/redacao/2026/08/30/programa-de-renegociacao-de-dividas-termina-nesta-segunda-feira.ghtm",
+        "image": "/manus-storage/noticia-bb-cassi_2904602e.jpeg"
+      },
+      {
+        "source": "R7",
+        "category": "Crédito",
+        "time": "05:00",
+        "title": "Desenrola Fies 2026: renegociação de dívidas termina nesta segunda",
+        "summary": "Termina nesta segunda-feira (31) o prazo para estudantes renegociarem dívidas do Fundo de Financiamento Estudantil (Fies) com descontos e condições facilitadas pelo programa Desenrola Fies 2026, instituído pela Medida Provisória nº 1.355/2026. As renegociações devem ser feitas diretamente com o Banco do Brasil ou a Caixa Econômica Federal, agentes financeiros do programa, pelos aplicativos oficiais ou presencialmente nas agências. O programa é voltado a contratos firmados até 2017 que estavam na fase de amortização em 4 de maio de 2026, contemplando contratos adimplentes e inadimplentes, inclusive estudantes com nome em cadastros de inadimplentes. Não estão aptos quem contratou o Fies a partir de 1º de janeiro de 2018 ou contratos em fase de uso do financiamento ou carência. Os descontos variam conforme o perfil da dívida e o tempo de atraso, podendo ser aplicados tanto para quitação à vista quanto para parcelamento. A renegociação só é efetivada após o pagamento da parcela de entrada; após a formalização e o pagamento, o nome do estudante e dos fiadores é retirado dos cadastros de inadimplentes, quando aplicável.",
+        "url": "https://noticias.r7.com/educacao/desenrola-fies-2026-renegociacao-de-dividas-termina-nesta-segunda-31082026/",
+        "image": "/manus-storage/noticia-bc-endividamento_aed78a7b.jpg"
+      },
+      {
+        "source": "Valor Econômico",
+        "category": "Crédito",
+        "time": "08:04",
+        "title": "Crédito garantido pelo salário cresce 225% e atrai bancos e fintechs",
+        "summary": "Com a Selic elevada e a inadimplência em níveis recordes, o crédito garantido pelo salário saltou de R$ 43 bilhões em março de 2025 para mais de R$ 140 bilhões em junho de 2026, crescimento de 225%. A modalidade custa de 30% a 35% ao ano, muito abaixo do rotativo do cartão, que chega a 440%. A contratação passou a ser centralizada na Carteira de Trabalho Digital, mas especialistas alertam para riscos em caso de demissão, troca de emprego e falhas no repasse das parcelas.",
+        "url": "https://valor.globo.com/publicacoes/especiais/meios-de-pagamento/noticia/2026/08/31/credito-garantido-pelo-salario-dispara-e-atrai-bancos-e-fintechs.ghtml",
+        "image": "/manus-storage/noticia-pix-antifraude_e48b5e99.jpeg"
+      },
+      {
+        "source": "Valor Econômico",
+        "category": "Tecnologia",
+        "time": "08:04",
+        "title": "Pix avança no varejo e amplia disputa com cartões de débito e crédito",
+        "summary": "Mais de 2 bilhões de pagamentos via Pix foram feitos em pontos de venda em 2025, alta de 54% em um ano. Enquanto as transações com cartão de débito recuaram 4%, as de crédito cresceram 8%. O Pix já alcança mais de 170 milhões de pessoas físicas e movimentou R$ 19,8 trilhões no primeiro semestre de 2026. Novas funcionalidades, como Pix por aproximação, automático e parcelado, intensificam a concorrência entre bancos, fintechs e bandeiras de cartão.",
+        "url": "https://valor.globo.com/publicacoes/especiais/meios-de-pagamento/noticia/2026/08/31/pix-ganha-espaco-no-consumo-e-desafia-os-cartoes-no-varejo.ghtml",
+        "image": "/manus-storage/noticia-assembleia-bancarios_96733f9b.png"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-30",
+    "displayDate": "30/08/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,16",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,98",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "179.722",
+        "detail": "B3"
+      }
+    ],
+    "main": {
+      "source": "TV Pampa / Jornal O Sul",
+      "category": "Destaque do dia",
+      "time": "",
+      "title": "Banco Central estuda medidas contra crédito caro e se diz preocupado com juros pagos pelas famílias",
+      "summary": "O Banco Central planeja adotar medidas para mitigar os riscos da oferta de linhas de crédito mais onerosas às famílias, segundo comunicado da reunião do Comitê de Estabilidade Financeira (Comef) realizada nesta semana; a ata será divulgada na quarta-feira (2). Uma das alternativas em estudo, apurou o Valor Econômico, é aumentar a exigência de capital dos bancos que ofertarem crédito mais caro a quem já está muito endividado. O presidente do BC, Gabriel Galípolo, afirmou na Febraban Tech que 'não dá para ficar contente com uma notícia de que o crédito cresceu e depois reclamar que o endividamento cresceu', e voltou a criticar o desenho do mercado de cartões, pouco sensível à Selic. O Comef manteve em 0% o adicional contracíclico de capital, em cenário de juros contracionistas e inadimplência em alta; o estoque de crédito bancário cresceu 9,7% em 12 meses até junho, a R$ 7,4 trilhões. Em relatório, o UBS BB elencou opções de aperto macroprudencial: elevar compulsório, hoje perto da mínima histórica, aumentar o peso de risco de modalidades específicas, elevar o IOF ou o adicional de capital. O BC também passou a exigir dos bancos apuração diária das operações, reduzindo de 45 dias para até sete dias úteis o prazo de atualização das informações de crédito.",
+      "url": "https://www.tvpampa.com.br/banco-central-preocupado-com-juros-altos-pagos-pelas-familias-brasileiras/",
+      "image": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663182216435/bPGOInjYFizCATKt.jpg"
+    },
+    "articles": [
+      {
+        "source": "Jornal do Commercio",
+        "category": "Crédito",
+        "time": "03:05",
+        "title": "Inadimplência bancária crava 4,9% e endividamento recorde muda o comportamento do consumidor, que evita crédito mesmo com limite aprovado",
+        "summary": "Coluna JC Negócios, de Fernando Castilho, analisa as Estatísticas Monetárias e de Crédito divulgadas pelo Banco Central: a taxa total de inadimplência cravou 4,9% em julho, maior em 12 meses, com atraso de 5,8% na pessoa física; no crédito com recursos livres, o calote alcançou 6,4% da carteira, com 4,2% nas empresas e 7,8% nas pessoas físicas. Dos R$ 7,37 trilhões tomados pelos brasileiros, R$ 4,64 trilhões estão no CPF e R$ 2,73 trilhões no CNPJ. Pela CNC, 82% das famílias estavam endividadas em julho; entre as de até três salários mínimos, 84,9%, com 30,6% da renda comprometida. O texto destaca que até o consignado registrou inadimplência, puxada pelo Crédito do Trabalhador, modalidade que somou R$ 117 bilhões em operações em pouco mais de um ano com juros de até 5% ao mês. Em julho, 27,2% dos endividados tinham dívidas em atraso com bancos e cartões e 19,9% com financeiras — ou seja, 47,1% têm relação com cartão de crédito, em um país com 253,8 milhões de cartões ativos em dezembro de 2025. Com a capacidade de endividamento esgotada, o consumidor passou a comprar menos e à vista, no Pix, mesmo com limites aprovados.",
+        "url": "https://jc.uol.com.br/colunas/jc-negocios/2026/08/30/endividamento-batendo-no-teto-muda-o-comportamento-do-consumidor-que-evita-comprar-a-credito-mesmo-com-limites-aprovados.html",
+        "image": "/manus-storage/noticia-assembleia-bancarios_96733f9b.png"
+      },
+      {
+        "source": "g1",
+        "category": "Bancos",
+        "time": "03:00",
+        "title": "Governo admite pagar R$ 0,39 por transação aos bancos no 'split payment' da reforma tributária",
+        "summary": "A equipe econômica concordou com o pagamento de R$ 0,39 por transação aos bancos no 'split payment', mecanismo da reforma tributária que recolhe os tributos sobre o consumo em tempo real no momento do pagamento. A decisão, tomada por um grupo de trabalho interministerial sobre a remuneração da rede arrecadadora, ainda não é definitiva e depende de avaliação jurídica, orçamentária e de conveniência; interlocutores dizem que as tratativas iniciais envolviam valores maiores, rejeitados pelo governo. Com o sistema plenamente implementado, o governo estima de 1,3 bilhão a 1,5 bilhão de operações por ano, movimentando cerca de R$ 6 trilhões, o que renderia aos bancos entre R$ 507 milhões e R$ 585 milhões anuais, já descontado o 'float' de um dia em que os recursos ficam no caixa das instituições. As instituições financeiras argumentam que a tarifa compensa investimentos em tecnologia, infraestrutura e segurança para acoplar os meios de pagamento ao sistema da Receita. A CGU participa do grupo e teria se posicionado contra o valor; a Confederação Nacional das Instituições Financeiras disse apenas que o setor segue em tratativas. A deliberação final deve sair até o fim deste ano, já que o 'split payment' começa em 2027, de forma gradativa e opcional para a CBS.",
+        "url": "https://g1.globo.com/economia/noticia/2026/08/30/reforma-tributaria-governo-admite-pagar-r-039-por-transacao-no-split-payment-aos-bancos.ghtml",
+        "image": "/manus-storage/noticia-bc-endividamento_aed78a7b.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-29",
+    "displayDate": "29/08/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,16",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,98",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "179.722",
+        "detail": "B3"
+      }
+    ],
+    "main": {
+      "source": "Not Journal",
+      "category": "Destaque do dia",
+      "time": "05:00",
+      "title": "Banco Central revoga autorização da Reag IP após pedido da empresa",
+      "summary": "O Banco Central aprovou o cancelamento da autorização de funcionamento da Reag IP, instituição de pagamento que integrava a estrutura do empresário João Carlos Mansur. A decisão foi formalizada nesta sexta-feira (28) por publicação no Diário Oficial da União, após processo aberto em 1º de junho de 2026, quando a própria empresa protocolou o requerimento. Com a mudança de objeto social, a companhia passa a se chamar Hubserv e deixa de atuar como instituição de pagamento. O grupo é alvo de investigações da Polícia Federal relacionadas ao Banco Master e à Operação Carbono Oculto, que apura supostas irregularidades financeiras. O caso ocorre em meio a um movimento de maior rigor regulatório do BC e dos bancos tradicionais sobre parceiros e operações financeiras descentralizadas, enquanto as fintechs temem excesso de regulação.",
+      "url": "https://notjournal.com.br/banco-central-revoga-autorizacao-da-reag-ip-apos-pedido-da-empresa",
+      "image": "https://notjournal.com.br/storage/blog-feature-images/cover_85160f3a86c449a4ae0f8545e0929006.jpg"
+    },
+    "articles": [
+      {
+        "source": "Folha de S.Paulo",
+        "category": "Crédito",
+        "time": "14:54",
+        "title": "Inadimplência no crédito livre atinge recorde, e atraso de famílias chega a 7,8%, diz BC",
+        "summary": "A parcela de empréstimos em atraso no crédito livre — que inclui cartão, crédito pessoal e financiamento de veículos — atingiu 6,4% em julho, o maior nível da série histórica do Banco Central, iniciada em março de 2011. Entre as pessoas físicas, a inadimplência nesse segmento chegou a 7,8%. No conjunto de todas as operações do sistema financeiro, a inadimplência chegou a 4,9% em julho, alta de 0,3 ponto percentual no mês e de 0,9 ponto em 12 meses. Entre as famílias, o percentual de empréstimos em atraso subiu 0,4 ponto, para 5,8%; entre as empresas, avançou 0,1 ponto, para 3,3%. O estoque total de crédito alcançou R$ 7,4 trilhões, com alta de 0,3% no mês. A taxa média de juros do crédito livre recuou para 47,7% ao ano, mas, para pessoas físicas, seguiu em 60% ao ano. O comprometimento da renda das famílias com dívidas subiu para 28,9% em junho, maior nível da série.",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/08/inadimplencia-no-brasil-sobe-a-64-e-atinge-maior-nivel-da-serie-historica-mostra-bc.shtml",
+        "image": "/manus-storage/noticia-bb-cassi_2904602e.jpeg"
+      },
+      {
+        "source": "SintrafGV (Jornal O Carcará)",
+        "category": "Trabalho",
+        "time": "10:53",
+        "title": "Bradesco encerra 324 agências e elimina 2.448 empregos em um ano",
+        "summary": "O Bradesco confirmou o fechamento de 324 agências físicas e a redução de 2.448 postos de trabalho no ciclo de um ano, entre junho de 2025 e junho de 2026, conforme levantamento do Sindicato dos Bancários com base em informações oficiais do banco. A redução ocorre mesmo com o lucro líquido recorrente de R$ 13,861 bilhões no primeiro semestre de 2026, alta de 16,2% na comparação anual. O sindicato criticou a contradição entre o resultado financeiro e os cortes e organizou protesto no Distrito Federal contra o fechamento de uma agência no Paranoá. Em resposta, o Bradesco afirmou que os correntistas não ficam desassistidos, pois contam com agências próximas, a rede Bradesco Expresso e os canais digitais, e que a reorganização da malha acompanha a evolução do comportamento dos consumidores.",
+        "url": "https://www.sintrafgv.com.br/bradesco-encerra-agencias-e-elimina-2-448-empregos-em-um-ano/",
+        "image": "/manus-storage/noticia-bc-endividamento_aed78a7b.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-28",
+    "displayDate": "28/08/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,16",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,98",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "179.722",
+        "detail": "B3"
+      }
+    ],
+    "main": {
+      "source": "Valor Econômico",
+      "category": "Destaque do dia",
+      "time": "08:00",
+      "title": "Indicadores de inadimplência do setor privado batem recorde no Brasil",
+      "summary": "Levantamento da Confederação Nacional do Comércio (CNC) aponta que 82% dos consumidores brasileiros tinham algum tipo de dívida a vencer em julho, maior taxa desde o início da série histórica, em 2010. Segundo a Serasa Experian, o número de empresas inadimplentes superou 9,1 milhões de CNPJs em junho, também recorde, com R$ 232,9 bilhões em dívidas negativadas. A inadimplência da pessoa física no sistema financeiro terminou junho em 5,6%, maior patamar desde 2013, e economistas como José Carlos Carvalho, da Vinci Compass, avaliam que o crédito consignado do setor privado foi usado sobretudo para trocar dívida cara de cartão, sem colocar dinheiro novo na mão das famílias. No setor público, a dívida bruta chegou a 81,9% do PIB em junho, segundo o Banco Central, mais de dez pontos percentuais acima dos 71,7% de dezembro de 2022.",
+      "url": "https://valor.globo.com/brasil/noticia/2026/08/28/indicadores-de-inadimplencia-do-setor-privado-batem-recorde.ghtml",
+      "image": "https://focareconomico.manus.space/manus-storage/28ago-capa-inadimplencia_79473b0c.jpg"
+    },
+    "articles": [
+      {
+        "source": "Jornal do Comércio",
+        "category": "Bancos",
+        "time": "00:29",
+        "title": "Puxado pela carteira de crédito, lucro da Caixa cresce para R$ 3,9 bi no 2º trimestre",
+        "summary": "A Caixa Econômica Federal registrou lucro líquido recorrente de R$ 3,9 bilhões no segundo trimestre de 2026, alta de 5,9% em relação ao mesmo período de 2025, impulsionada pela expansão da carteira de crédito, que chegou a R$ 1,4 trilhão, crescimento de 11,9% em 12 meses. A margem financeira somou R$ 19,7 bilhões, alta anual de 20,2%, enquanto o ROE ficou em 9,16%, recuo de 2,70 pontos percentuais. A rentabilidade foi pressionada por um salto de 97,6% nas provisões contra calotes, que alcançaram R$ 7 bilhões, influenciadas pela nova regra do Banco Central que exige provisão para perdas esperadas. O crédito imobiliário avançou 28,2%, para R$ 73,3 bilhões, e a Caixa manteve 67,7% de participação no financiamento habitacional; a inadimplência total da carteira subiu de 2,66% para 3,64% em um ano, chegando a 6,29% entre pessoas físicas e 14,05% entre empresas.",
+        "url": "https://www.jornaldocomercio.com/economia/2026/08/1261356-puxado-pela-carteira-de-credito-lucro-da-caixa-cresce-para-rs-39-bi-no-2-tri.html",
+        "image": "/manus-storage/noticia-bb-cassi_2904602e.jpeg"
+      },
+      {
+        "source": "Veja",
+        "category": "Bancos",
+        "time": "08:30",
+        "title": "Caixa Cartões se adapta ao Pix e lucro cresce 366% em três anos",
+        "summary": "A Caixa Cartões registrou crescimento de 366% no lucro entre 2022 e 2025, enquanto a média dos concorrentes avançou 31%, segundo a Austin Rating. A empresa atribui o resultado à integração das operações de cartões, adquirência e fidelidade e pretende elevar sua participação no mercado de cartões de crédito de 3% para 7% até 2030. Para clientes de baixa renda, a estratégia inclui ampliar modalidades de crédito com garantia para reduzir o risco de inadimplência.",
+        "url": "https://veja.abril.com.br/economia/sem-motivos-para-temer-o-pix-caixa-cartoes-se-adapta-e-ve-lucro-saltar-366/",
+        "image": "/manus-storage/noticia-bc-endividamento_aed78a7b.jpg"
+      },
+      {
+        "source": "Estadão",
+        "category": "Tecnologia",
+        "time": "08:30",
+        "title": "Inteligência artificial muda crédito, atendimento e trabalho nos grandes bancos",
+        "summary": "Bradesco, Itaú, Santander, Banco do Brasil e Caixa ampliaram o uso de inteligência artificial na análise de crédito, prevenção a fraudes, atendimento e rotinas internas. O Bradesco estima R$ 1 bilhão em receita adicional com iniciativas apoiadas por IA e relata ganhos de produtividade de cerca de 50% no desenvolvimento. A automação reduz tarefas repetitivas, mas as instituições afirmam que decisões sensíveis e validações finais continuam sob responsabilidade humana.",
+        "url": "https://www.estadao.com.br/economia/negocios/como-a-ia-esta-mudando-a-rotina-dos-bancos-por-dentro-e-por-fora-entenda-e-veja-casos/",
+        "image": "/manus-storage/noticia-pix-antifraude_e48b5e99.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-27",
+    "displayDate": "27/08/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,16",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,98",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "179.722",
+        "detail": "B3"
+      }
+    ],
+    "main": {
+      "source": "Jornal Extra",
+      "category": "Destaque do dia",
+      "time": "16:46",
+      "title": "Bancários rejeitam reajuste de 2,57%; negociação com Fenaban segue sem avanço",
+      "summary": "A 11ª mesa da Campanha Nacional Unificada dos Bancários de 2026 foi retomada depois de o Comando Nacional rejeitar duas propostas da Fenaban. A oferta mais recente previa reajuste de 2,57% para salários, VA, VR e auxílios, com congelamento da PLR e do piso; diante de INPC estimado em 4,13% para a data-base de 1º de setembro, o índice cobriria 62% da inflação e representaria perda real de 1,5%. Juvandia Moreira afirmou que a categoria seguirá mobilizada, e uma paralisação nacional permanece entre as possibilidades.",
+      "url": "https://ojornalextra.com.br/noticias/brasil/2026/08/130421-negociacao-salarial-entre-bancos-e-trabalhadores-e-retomada-sem-avanco",
+      "image": "https://focareconomico.manus.space/manus-storage/manchete-negociacao-fenaban-27-08-2026_d1fd92df.jpg"
+    },
+    "articles": [
+      {
+        "source": "Rádio Cultura Foz",
+        "category": "Trabalho",
+        "time": "12:46",
+        "title": "Foz do Iguaçu perdeu 10 agências bancárias em dez anos; Itaú lidera redução",
+        "summary": "A rede bancária de Foz do Iguaçu caiu de 24 agências em dezembro de 2015 para 14 em dezembro de 2025, retração de 41,7%, segundo dados da ESTBAN, do Banco Central, e levantamento do Dieese. O Itaú reduziu suas unidades de seis para uma, o Bradesco passou de cinco para duas e o Santander de cinco para quatro; no sentido oposto, o Banco do Brasil avançou de duas para três agências e a Caixa manteve quatro. Representantes dos bancários alertam para demissões, sobrecarga das equipes e piora do atendimento presencial.",
+        "url": "https://www.radioculturafoz.com.br/2026/08/26/foz-do-iguacu-perdeu-10-agencias-bancarias-em-dez-anos-itau-lidera-reducao/",
+        "image": "/manus-storage/noticia-pix-antifraude_e48b5e99.jpeg"
+      },
+      {
+        "source": "FEEB-SC",
+        "category": "Trabalho",
+        "time": "23:37",
+        "title": "Fenaban apresenta proposta para dispensas ligadas ao fechamento de agências",
+        "summary": "Após mais de dez horas de negociação, a Fenaban não apresentou nova proposta econômica e levou à mesa um programa para bancários dispensados entre 30 dias antes e 90 dias depois do encerramento do atendimento de uma agência. O texto prevê apoio à recolocação e indenização de 60 a 180 dias de remuneração, conforme o tempo de banco, com vigência de 1º de setembro de 2026 a 1º de março de 2028. A CONTEC pediu valores maiores e rejeitou que a negociação legitime demissões em massa, mantendo como prioridade a preservação dos empregos e dos direitos da CCT.",
+        "url": "https://feebsc.org.br/apos-mais-de-10-horas-fenaban-nao-avanca-nas-economicas-e-apresenta-proposta-para-dispensas-por-fechamento-de-agencias/",
+        "image": "/manus-storage/noticia-assembleia-bancarios_96733f9b.png"
+      },
+      {
+        "source": "Estadão E-Investidor",
+        "category": "Bancos",
+        "time": "20:00",
+        "title": "Inadimplência sobe nos quatro maiores bancos de varejo no segundo trimestre",
+        "summary": "A inadimplência acima de 90 dias aumentou nos quatro maiores bancos de varejo entre o segundo trimestre de 2025 e o mesmo período de 2026. No Banco do Brasil, o índice total passou de 4,0% para 5,6% e, entre pessoas físicas, de 5,6% para 8,4%; o Santander avançou de 2,6% para 3,3%, o Bradesco de 4,1% para 4,4% e o Itaú de 2,0% para 2,1%. A análise associa a deterioração ao longo período de juros altos, com a Selic ainda em 14% ao ano, e registra que o BB reforçou provisões e apertou as exigências no crédito rural.",
+        "url": "https://www.estadao.com.br/einvestidor/einar-rivero/o-que-os-numeros-dos-bancos-dizem-sobre-os-riscos-do-credito/",
+        "image": "/manus-storage/noticia-bb-cassi_2904602e.jpeg"
+      },
+      {
+        "source": "TV Brasil",
+        "category": "Crédito",
+        "time": "22:55",
+        "title": "Pesquisa traça o perfil das famílias endividadas no Brasil",
+        "summary": "Oito em cada dez famílias brasileiras têm dívidas e uma em cada três acumula compromissos em atraso, de acordo com dados da Confederação Nacional do Comércio citados pelo Repórter Brasil. Estudo do Instituto Brasileiro de Executivos de Varejo com a FIA Escola de Negócios indica que o cartão de crédito costuma ser consequência, e não causa inicial, do desequilíbrio: antes de recorrer a ele, famílias cortam gastos não essenciais e buscam renda extra. Os pesquisadores recomendam ampliar a educação financeira antes que o endividamento evolua para inadimplência.",
+        "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/08/pesquisa-traca-o-perfil-das-familias-endividadas-no-brasil",
+        "image": "/manus-storage/noticia-bc-endividamento_aed78a7b.jpg"
+      },
+      {
+        "source": "Valor Econômico",
+        "category": "Crédito",
+        "time": "21:38",
+        "title": "BC prepara medidas para mitigar riscos do uso de crédito mais caro",
+        "summary": "O Banco Central informou que prepara medidas para reduzir riscos associados à oferta de linhas de crédito mais onerosas, que pressionam o orçamento das famílias. Segundo a autoridade monetária, o cenário exige diligência adicional das instituições tanto na qualidade das concessões quanto no apetite ao risco. A iniciativa pretende fortalecer a sustentabilidade do crédito e a resiliência do Sistema Financeiro Nacional.",
+        "url": "https://valor.globo.com/financas/noticia/2026/08/26/bc-prepara-medidas-para-mitigar-riscos-do-uso-de-modalidades-de-crdito-mais-onerosas.ghtml",
+        "image": "/manus-storage/noticia-pix-antifraude_e48b5e99.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-26",
+    "displayDate": "26/08/2026",
+    "indicators": [
+      {
+        "label": "Dólar",
+        "value": "R$ 5,16",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Euro",
+        "value": "R$ 5,98",
+        "detail": "PTAX/BCB"
+      },
+      {
+        "label": "Selic",
+        "value": "14,00%",
+        "detail": "Banco Central"
+      },
+      {
+        "label": "Ibovespa",
+        "value": "179.722",
+        "detail": "B3"
+      }
+    ],
+    "main": {
+      "source": "O Globo",
+      "category": "Bancos",
+      "time": "07:01",
+      "title": "Nubank, Itaú e XP avançam com operações bancárias nos Estados Unidos",
+      "summary": "Bancos e plataformas brasileiras estão ampliando presença nos Estados Unidos para acompanhar clientes de alta renda que internacionalizam patrimônio. O Itaú obteve autorização preliminar para constituir o Itaú Bank, enquanto o Nubank prepara o banco digital Nubank NA, com início projetado para 2027. A XP avalia pedir licença ou adquirir uma instituição local. O movimento busca oferecer conta, câmbio, crédito e investimentos em dólar sem perder clientes para bancos globais.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/26/bancos-brasileiros-seguem-o-dinheiro-dos-clientes-e-anunciam-abertura-de-operacoes-nos-estados-unidos.ghtml",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    "articles": [
+      {
+        "source": "Valor Econômico",
+        "category": "Tecnologia",
+        "time": "08:02",
+        "title": "Bancos estimam investir quase R$ 3 bilhões em IA e dados em 2026",
+        "summary": "Os bancos brasileiros pretendem investir R$ 2,97 bilhões em inteligência artificial, analytics e big data em 2026, alta de 8% sobre 2025. A Pesquisa Febraban de Tecnologia Bancária indica ainda R$ 3,9 bilhões para migração à nuvem, crescimento anual de 30%. O orçamento integra os cerca de R$ 50 bilhões previstos para tecnologia no setor. As prioridades incluem eficiência operacional, análise de dados, atendimento, prevenção a fraudes e capacitação profissional.",
+        "url": "https://valor.globo.com/financas/noticia/2026/08/26/setor-financeiro-estima-investir-r-3-bi-em-nova-tecnologia-e-dados-em-2026.ghtml",
+        "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800"
+      },
+      {
+        "source": "Valor Econômico",
+        "category": "Bancos",
+        "time": "09:44",
+        "title": "Casas Bahia pede que Banco do Brasil devolva R$ 422 milhões",
+        "summary": "O Grupo Casas Bahia pediu à Justiça que o Banco do Brasil devolva R$ 422 milhões debitados das contas da varejista. O BB havia honrado garantias dadas a Apple e Mapfre e se reembolsou após o pedido de recuperação judicial, que envolve dívida de R$ 17,3 bilhões. A companhia afirma que a retenção viola a igualdade entre credores. BTG, Cielo, Getnet e Redecard também são citados por bloqueios ou retenção de recebíveis que pressionam o caixa do grupo.",
+        "url": "https://valor.globo.com/empresas/noticia/2026/08/26/casas-bahia-pede-justia-que-bb-devolva-r-422-mi-e-tenta-estancar-sada-de-mais-recursos.ghtml",
+        "image": "https://images.pexels.com/photos/936722/pexels-photo-936722.jpeg?auto=compress&cs=tinysrgb&w=800"
+      },
+      {
+        "source": "Bloomberg / The Star",
+        "category": "Crédito",
+        "time": "13:00",
+        "title": "Galípolo alerta para riscos do avanço do crédito e do endividamento das famílias",
+        "summary": "O presidente do Banco Central, Gabriel Galípolo, alertou que a expansão do crédito traz como consequência natural o aumento do endividamento. Segundo ele, o problema maior está nas linhas usadas para consumo imediato, especialmente cartão rotativo e parcelamentos caros. Galípolo citou taxas próximas de 15% ao mês em algumas modalidades e defendeu cautela com estímulos adicionais ao consumo. O BC teme que o excesso de demanda dificulte a convergência da inflação à meta de 3%.",
+        "url": "https://www.thestar.com.my/business/business-news/2026/08/26/brazil-central-bank-flags-risks-from-credit-growth",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/08/26/4078150.jpeg"
+      }
+    ]
+  }
+]

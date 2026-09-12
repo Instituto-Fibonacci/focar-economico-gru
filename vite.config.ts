@@ -5,10 +5,6 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  resolve: {
-    alias: {
-      "@": path.resolve(import.meta.dirname, "src"),
-    },
-  },
+  resolve: { alias: { "@": path.resolve(import.meta.dirname, "src") } },
   envDir: import.meta.dirname,
 });
