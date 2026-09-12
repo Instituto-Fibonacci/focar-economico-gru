@@ -5,7 +5,7 @@
 import React from "react";
 import { CalendarDays, Printer, RefreshCw, Share2 } from "lucide-react";
 import { toast } from "sonner";
-import editionsData from "@/data/editions.json";
+import fallbackEditions from "./editions.json";
 import { supabase } from "@/lib/supabase";
 
 type Indicator = { label: string; value: string; detail: string };
