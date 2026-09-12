@@ -6,7 +6,6 @@ import React from "react";
 import { CalendarDays, Printer, RefreshCw, Share2 } from "lucide-react";
 import { toast } from "sonner";
 import editionsData from "./editions.json";
-import fallbackEditions from "./editions.json";
 import { supabase } from "@/lib/supabase";
 
 type Indicator = { label: string; value: string; detail: string };
@@ -46,6 +45,36 @@ function formatArchiveDate(id: string) {
 
 function safeImage(event: React.SyntheticEvent<HTMLImageElement>) {
   event.currentTarget.style.opacity = "0";
+}
+
+function cleanText(value: unknown) {
+  return String(value || "")
+    .replace(/<[^>]*>/g, " ")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function editorialSummary(value: unknown, maxLength: number) {
+  const text = cleanText(value);
+  if (text.length <= maxLength) return text;
+
+  const candidate = text.slice(0, maxLength);
+  const lastSentence = Math.max(
+    candidate.lastIndexOf(". "),
+    candidate.lastIndexOf("! "),
+    candidate.lastIndexOf("? ")
+  );
+
+  if (lastSentence >= Math.floor(maxLength * 0.55)) {
+    return candidate.slice(0, lastSentence + 1);
+  }
+
+  const lastSpace = candidate.lastIndexOf(" ");
+  return `${candidate.slice(0, Math.max(lastSpace, 1))}…`;
 }
 
 function Masthead({ edition }: { edition: Edition }) {
@@ -105,20 +134,22 @@ function Masthead({ edition }: { edition: Edition }) {
         </time>
       </header>
 
-      <section className="economic-strip" aria-label="Termômetro econômico">
-        <div className="economic-inner">
-          <h2><span aria-hidden="true">◆</span> Termômetro Econômico</h2>
-          <div className="indicator-list">
-            {edition.indicators.map((indicator) => (
-              <div className="indicator" key={indicator.label}>
-                <span>{indicator.label}</span>
-                <strong>{indicator.value}</strong>
-                <small>{indicator.detail}</small>
-              </div>
-            ))}
+      {edition.indicators.length > 0 && (
+        <section className="economic-strip" aria-label="Termômetro econômico">
+          <div className="economic-inner">
+            <h2><span aria-hidden="true">◆</span> Termômetro Econômico</h2>
+            <div className="indicator-list">
+              {edition.indicators.map((indicator) => (
+                <div className="indicator" key={indicator.label}>
+                  <span>{indicator.label}</span>
+                  <strong>{indicator.value}</strong>
+                  <small>{indicator.detail}</small>
+                </div>
+              ))}
+            </div>
           </div>
-        </div>
-      </section>
+        </section>
+      )}
     </>
   );
 }
@@ -145,7 +176,7 @@ function LeadStory({ article }: { article: Article }) {
       </div>
       <div className="lead-copy">
         <h2>{article.title}</h2>
-        <p>{article.summary}</p>
+        <p>{editorialSummary(article.summary, 520)}</p>
         <footer>
           <a href={article.url} target="_blank" rel="noreferrer">Leia a matéria completa</a>
           <time>{article.time}</time>
@@ -169,7 +200,7 @@ function NewsCard({ article, index }: { article: Article; index: number }) {
       </div>
       <div className="news-copy">
         <h3>{article.title}</h3>
-        <p>{article.summary}</p>
+        <p>{editorialSummary(article.summary, 190)}</p>
         <a href={article.url} target="_blank" rel="noreferrer">Ler matéria</a>
       </div>
     </article>
@@ -240,7 +271,7 @@ function mapSupabaseEdition(row: any): Edition {
     time: a.time || formatTime(a.published_at),
     relevanceScore: Number(a.relevanceScore ?? a.score ?? 0),
     title: a.title || "",
-    summary: a.summary || a.description || "",
+    summary: a.summary || a.description || a.content || "",
     url: a.url || "#",
     image: a.image || a.image_url || fallbackEditions[0]?.main.image || "",
     publishedAt: a.publishedAt || a.published_at,
@@ -248,7 +279,8 @@ function mapSupabaseEdition(row: any): Edition {
   const fallback = fallbackEditions[0];
   const date = row.display_date || payload.date || fallback.id;
   const main = articles[0] || fallback.main;
-  return { id: date, displayDate: formatDisplayDate(date), indicators: fallback.indicators, main, articles: articles.slice(1) };
+  const indicators = Array.isArray(payload.indicators) ? payload.indicators : [];
+  return { id: date, displayDate: formatDisplayDate(date), indicators, main, articles: articles.slice(1) };
 }
 
 export default function Home() {
@@ -307,3 +339,4 @@ export default function Home() {
     </div>
   );
 }
+
